@@ -1,10 +1,10 @@
 # Object detection by Opencv
 ####Input image;
-![](https://github.com/PudPawat/object-detection-by-openCV/blob/main/images/start.jpg?raw=true width="100")
+![](https://github.com/PudPawat/object-detection-by-openCV/blob/main/images/start.jpg?raw=true)
 ####Mask image;
-![](https://github.com/PudPawat/object-detection-by-openCV/blob/main/images/mask.jpg?raw=true width="100")
+![](https://github.com/PudPawat/object-detection-by-openCV/blob/main/images/mask.jpg?raw=true)
 ####Final image;
-![](https://github.com/PudPawat/object-detection-by-openCV/blob/main/images/final.jpg?raw=true width="100")
+![](https://github.com/PudPawat/object-detection-by-openCV/blob/main/images/final.jpg?raw=true)
 
 
 ### Algorithm
